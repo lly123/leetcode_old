@@ -1,9 +1,9 @@
 __author__ = 'richard'
 
 
-UPDATE_COST = 1
-INSERT_COST = 4
-DELETE_COST = 3
+UPDATE_COST = 3
+INSERT_COST = 8
+DELETE_COST = 1
 APPEND_COST = 2
 
 
